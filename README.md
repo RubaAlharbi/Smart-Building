@@ -1,2 +1,4 @@
 # Smart-Building
-Book your classroom for a better educational experience!  A project created by me and my colleagues at university. The programming data used: JavaScript. Development environment: Netbeans
+__Book your classroom for a better educational experience!__
+A project created by _me_ and _my colleagues_ at university.
+The programming data used: ___JavaScript.___ Development environment __Netbeans__
